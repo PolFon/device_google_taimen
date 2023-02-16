@@ -35,11 +35,11 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += com.android.vndk.current.on_vendor
 
-PRODUCT_MANUFACTURER := Google
+PRODUCT_MANUFACTURER := PolTech
 PRODUCT_BRAND := google
 PRODUCT_NAME := tequila_taimen
 PRODUCT_DEVICE := taimen
-PRODUCT_MODEL := Pixel 2 XL
+PRODUCT_MODEL := PolFon 1 Pro
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME=taimen \
